@@ -4,7 +4,7 @@ Gabrielly Christina Moreira, Marcos André Trajano da Silva Júnior e Yasmin de 
 
 ## Tema
 
-Como é ano de eleição, escolhemos o problema de levar as urnas eletrônicas do TRE em Manaus até as cidades do interior do Amazonas. Lá muita cidade não tem estrada, então a urna vai de barco ou de avião. O programa procura a rota mais rápida (em horas) usando os algoritmos vistos em aula.
+Como é ano de eleição, escolhemos o problema de levar as urnas eletrônicas do TRE em Manaus até as cidades do interior do Amazonas. Onde muitas cidades não têm estrada, então a urna vai de barco ou de avião. O programa procura a rota mais rápida (em horas) usando os algoritmos vistos em aula.
 
 Bibliotecas usadas: `collections.deque`, `heapq`, `math` e `time`.
 
